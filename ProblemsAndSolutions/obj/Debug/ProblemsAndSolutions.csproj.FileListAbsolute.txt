@@ -1,0 +1,7 @@
+D:\Workspace\Visual Studio 2017\ProblemsAndSolutions\ProblemsAndSolutions\bin\Debug\ProblemsAndSolutions.exe.config
+D:\Workspace\Visual Studio 2017\ProblemsAndSolutions\ProblemsAndSolutions\bin\Debug\ProblemsAndSolutions.exe
+D:\Workspace\Visual Studio 2017\ProblemsAndSolutions\ProblemsAndSolutions\bin\Debug\ProblemsAndSolutions.pdb
+D:\Workspace\Visual Studio 2017\ProblemsAndSolutions\ProblemsAndSolutions\obj\Debug\ProblemsAndSolutions.csprojAssemblyReference.cache
+D:\Workspace\Visual Studio 2017\ProblemsAndSolutions\ProblemsAndSolutions\obj\Debug\ProblemsAndSolutions.csproj.CoreCompileInputs.cache
+D:\Workspace\Visual Studio 2017\ProblemsAndSolutions\ProblemsAndSolutions\obj\Debug\ProblemsAndSolutions.exe
+D:\Workspace\Visual Studio 2017\ProblemsAndSolutions\ProblemsAndSolutions\obj\Debug\ProblemsAndSolutions.pdb
