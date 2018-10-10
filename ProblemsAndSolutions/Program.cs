@@ -13,8 +13,8 @@ namespace ProblemsAndSolutions
         {
             //MultipleThreadSample multipleThreadSample = new MultipleThreadSample();
 
-            BracketsMatchingUsingStack bracketsMatching = new BracketsMatchingUsingStack();
-            bool control = bracketsMatching.GetBracketsMatchingBool("{()}");
+            //BracketsMatchingUsingStack bracketsMatching = new BracketsMatchingUsingStack();
+            //bool control = bracketsMatching.GetBracketsMatchingBool("{()}");
         }
     }
 }
