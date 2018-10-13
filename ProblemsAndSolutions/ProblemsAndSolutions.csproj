@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="BracketsMatchingUsingStack.cs" />
     <Compile Include="MultipleThreadSample.cs" />
+    <Compile Include="PalindromeNumbers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

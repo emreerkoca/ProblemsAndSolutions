@@ -15,6 +15,12 @@ namespace ProblemsAndSolutions
 
             //BracketsMatchingUsingStack bracketsMatching = new BracketsMatchingUsingStack();
             //bool control = bracketsMatching.GetBracketsMatchingBool("{()}");
+
+            PalindromeNumbers palindromeNumbers = new PalindromeNumbers(234432);
+
+
+
+            Console.ReadKey();
         }
     }
 }
