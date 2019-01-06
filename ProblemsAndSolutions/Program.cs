@@ -16,7 +16,9 @@ namespace ProblemsAndSolutions
             //BracketsMatchingUsingStack bracketsMatching = new BracketsMatchingUsingStack();
             //bool control = bracketsMatching.GetBracketsMatchingBool("{()}");
 
-            PalindromeNumbers palindromeNumbers = new PalindromeNumbers(234432);
+            //PalindromeNumbers palindromeNumbers = new PalindromeNumbers(234432);
+
+            FindMissingValue findMissingValue = new FindMissingValue();
 
 
 
