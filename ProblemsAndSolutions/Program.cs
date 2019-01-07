@@ -18,9 +18,9 @@ namespace ProblemsAndSolutions
 
             //PalindromeNumbers palindromeNumbers = new PalindromeNumbers(234432);
 
-            FindMissingValue findMissingValue = new FindMissingValue();
+            //FindMissingValue findMissingValue = new FindMissingValue();
 
-
+            RemoveDuplicateCharacters removeDuplicateCharacters = new RemoveDuplicateCharacters();
 
             Console.ReadKey();
         }
