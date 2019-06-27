@@ -5,3 +5,10 @@ D:\Workspace\Visual Studio 2017\ProblemsAndSolutions\ProblemsAndSolutions\obj\De
 D:\Workspace\Visual Studio 2017\ProblemsAndSolutions\ProblemsAndSolutions\obj\Debug\ProblemsAndSolutions.csproj.CoreCompileInputs.cache
 D:\Workspace\Visual Studio 2017\ProblemsAndSolutions\ProblemsAndSolutions\obj\Debug\ProblemsAndSolutions.exe
 D:\Workspace\Visual Studio 2017\ProblemsAndSolutions\ProblemsAndSolutions\obj\Debug\ProblemsAndSolutions.pdb
+C:\Users\User\Source\Repos\AboutDotnetTechnologies\ProblemsAndSolutions\bin\Debug\ProblemsAndSolutions.exe.config
+C:\Users\User\Source\Repos\AboutDotnetTechnologies\ProblemsAndSolutions\bin\Debug\ProblemsAndSolutions.exe
+C:\Users\User\Source\Repos\AboutDotnetTechnologies\ProblemsAndSolutions\bin\Debug\ProblemsAndSolutions.pdb
+C:\Users\User\Source\Repos\AboutDotnetTechnologies\ProblemsAndSolutions\obj\Debug\ProblemsAndSolutions.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\AboutDotnetTechnologies\ProblemsAndSolutions\obj\Debug\ProblemsAndSolutions.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\AboutDotnetTechnologies\ProblemsAndSolutions\obj\Debug\ProblemsAndSolutions.exe
+C:\Users\User\Source\Repos\AboutDotnetTechnologies\ProblemsAndSolutions\obj\Debug\ProblemsAndSolutions.pdb

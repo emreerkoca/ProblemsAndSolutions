@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsAndSolutions", "ProblemsAndSolutions\ProblemsAndSolutions.csproj", "{0DB90684-1011-4D4C-8F09-782119143D76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresDotnetFramework", "DataStructures\DataStructuresDotnetFramework.csproj", "{401D1A8D-55E3-4F7F-B3E8-3059FB2B173B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0DB90684-1011-4D4C-8F09-782119143D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DB90684-1011-4D4C-8F09-782119143D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DB90684-1011-4D4C-8F09-782119143D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{401D1A8D-55E3-4F7F-B3E8-3059FB2B173B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{401D1A8D-55E3-4F7F-B3E8-3059FB2B173B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{401D1A8D-55E3-4F7F-B3E8-3059FB2B173B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{401D1A8D-55E3-4F7F-B3E8-3059FB2B173B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
